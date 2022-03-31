@@ -13,3 +13,7 @@
 11. Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 12. Create a script that creates a directory called mydir with permissions 751 in the working director
 13. Write a script that changes the group owner to school for the file hello
+14. Write a script that changes the owner to...
+15. Write a script that changes the owner and the group owner of
+16. Write a script that changes the owner of the file
+17. Write a script that will play the StarWars IV episode in the terminal
